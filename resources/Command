@@ -1,0 +1,7 @@
+. For deploy current version:
+
+    firebase deploy --only functions
+
+. For deploy current version of a specific function:
+
+    firebase deploy --only functions:<function.name>
